@@ -44,7 +44,7 @@
     align-items: center;
     
 }
-.course-options{
+.course-options:hover{
     padding: 10px;
     margin: 5px;
     border-bottom: solid black 1px;
