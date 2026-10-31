@@ -1,7 +1,6 @@
 *{
     padding: 0px;
     margin: 0px;
-
 }
 .head-container{
     margin: 10px;
@@ -9,8 +8,7 @@
     justify-content: space-between; 
     border-bottom: solid black 1px;
     gap: 5px;
-    align-items: center;
-    
+    align-items: center;  
 }
 .head-container__title{
     color: purple;
